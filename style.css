@@ -1,0 +1,8 @@
+h2{color: #005677; background-color: #C4C4C4;text-transform: uppercase; letter-spacing: 7px;}
+h1{background-color: #C4C4C4; font-family: 'Times New Roman', Times, serif; font-weight: 700 ; font-size: 35px; line-height: 29.64px; text-transform: uppercase;
+text-align: center; letter-spacing: 10px; color: #005677;}
+/* h2{background-color: #C4C4C4;} */
+header{text-align: center;background-color: #E6E6E6; background-position: absolute;}
+.lista1{font-family: 'Times New Roman';font-style: italic; }
+.otraslistas{font-family: 'Times New Roman'}
+footer{background-color: #005677; text-align: center; color:white;}
